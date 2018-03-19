@@ -1,0 +1,26 @@
+C:\Users\guila\source\repos\Bf2 Registry Manager\Bf2 Registry Manager\obj\Debug\Bf2 Registry Manager.csprojResolveAssemblyReference.cache
+C:\Users\guila\source\repos\Bf2 Registry Manager\Bf2 Registry Manager\obj\Debug\Bf2_Registry_Manager.GetStarted.resources
+C:\Users\guila\source\repos\Bf2 Registry Manager\Bf2 Registry Manager\obj\Debug\Bf2_Registry_Manager.GameDir.resources
+C:\Users\guila\source\repos\Bf2 Registry Manager\Bf2 Registry Manager\obj\Debug\Bf2_Registry_Manager.Properties.Resources.resources
+C:\Users\guila\source\repos\Bf2 Registry Manager\Bf2 Registry Manager\obj\Debug\Bf2 Registry Manager.csproj.GenerateResource.Cache
+C:\Users\guila\source\repos\Bf2 Registry Manager\Bf2 Registry Manager\obj\Debug\Bf2 Registry Manager.csproj.CoreCompileInputs.cache
+C:\Users\guila\source\repos\Bf2 Registry Manager\Bf2 Registry Manager\bin\Debug\Bf2 Registry Manager.exe.config
+C:\Users\guila\source\repos\Bf2 Registry Manager\Bf2 Registry Manager\bin\Debug\Bf2 Registry Manager.exe
+C:\Users\guila\source\repos\Bf2 Registry Manager\Bf2 Registry Manager\bin\Debug\Bf2 Registry Manager.pdb
+C:\Users\guila\source\repos\Bf2 Registry Manager\Bf2 Registry Manager\obj\Debug\Bf2 Registry Manager.exe
+C:\Users\guila\source\repos\Bf2 Registry Manager\Bf2 Registry Manager\obj\Debug\Bf2 Registry Manager.pdb
+C:\Users\guila\source\repos\Bf2 Registry Manager\Bf2 Registry Manager\obj\Debug\Bf2_Registry_Manager.KeyGenFrm.resources
+C:\Users\guila\source\repos\Bf2 Registry Manager\Bf2 Registry Manager\obj\Debug\Bf2_Registry_Manager.MenuWindow.resources
+C:\Users\guila\Desktop\Bf2 Registry Manager\bin\Debug\Bf2 Registry Manager.exe.config
+C:\Users\guila\Desktop\Bf2 Registry Manager\bin\Debug\Bf2 Registry Manager.exe
+C:\Users\guila\Desktop\Bf2 Registry Manager\bin\Debug\Bf2 Registry Manager.pdb
+C:\Users\guila\Desktop\Bf2 Registry Manager\obj\Debug\Bf2 Registry Manager.csprojResolveAssemblyReference.cache
+C:\Users\guila\Desktop\Bf2 Registry Manager\obj\Debug\Bf2_Registry_Manager.GetStarted.resources
+C:\Users\guila\Desktop\Bf2 Registry Manager\obj\Debug\Bf2_Registry_Manager.GameDir.resources
+C:\Users\guila\Desktop\Bf2 Registry Manager\obj\Debug\Bf2_Registry_Manager.KeyGenFrm.resources
+C:\Users\guila\Desktop\Bf2 Registry Manager\obj\Debug\Bf2_Registry_Manager.MenuWindow.resources
+C:\Users\guila\Desktop\Bf2 Registry Manager\obj\Debug\Bf2_Registry_Manager.Properties.Resources.resources
+C:\Users\guila\Desktop\Bf2 Registry Manager\obj\Debug\Bf2 Registry Manager.csproj.GenerateResource.Cache
+C:\Users\guila\Desktop\Bf2 Registry Manager\obj\Debug\Bf2 Registry Manager.csproj.CoreCompileInputs.cache
+C:\Users\guila\Desktop\Bf2 Registry Manager\obj\Debug\Bf2 Registry Manager.exe
+C:\Users\guila\Desktop\Bf2 Registry Manager\obj\Debug\Bf2 Registry Manager.pdb
